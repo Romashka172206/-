@@ -1,0 +1,75 @@
+body{
+    background-image: url(система5.jpg);
+    background-size: cover;
+}
+
+button.one-but{
+    color:yellow;
+    margin: 26vw 5.21vw 5.21vw 5.21vw;
+    position: absolute;
+    font-size: 18px;
+    background-color: #4CAF50;
+}
+button.two-but{
+    color:rgb(255, 111, 0);
+    margin: 33vw 7.81vw 7.81vw 24vw;
+    top: 0;  
+    position: absolute;
+    font-size: 18px;
+    background-color: #4c4caf;
+}
+button.th-but{
+    color:rgb(0, 217, 255);
+    margin: 31vw 10.42vw 10.42vw 34vw;
+    top: 0;  
+    position: absolute;
+    font-size: 18px;
+    background-color: #704caf;
+}
+button.fo-but{
+    color:rgb(43, 255, 0);
+    margin: 28vw 5.21vw 5.21vw 43vw;
+    top: 0;  
+    position: absolute;
+    font-size: 18px;
+    background-color: #af4c6f;
+}
+button.fiv-but{
+    color:rgb(255, 64, 0);
+    margin: 24vw 5.21vw 5.21vw 50vw;
+    top: 0;  
+    position: absolute;
+    font-size: 18px;
+    background-color: #3b0f2a;
+}
+button.six-but{
+    color:rgb(255, 251, 0);
+    margin: 22vw 5.21vw 5.21vw 58vw;
+    position: absolute;
+    font-size: 18px;
+    background-color: #4e273f86;
+}
+button.sev-but{
+    color:rgb(255, 0, 242);
+    margin: 17vw 5.21vw 5.21vw 69vw;
+    position: absolute;
+    font-size: 18px;
+    background-color: #0d0b5186;
+}
+button.ei-but{
+    color:rgb(0, 225, 255);
+    margin: 12vw 5.21vw 5.21vw 83vw;
+    position: absolute;
+    font-size: 18px;
+    background-color: #00000086;
+}
+button.nin-but{
+    color:rgb(0, 140, 255);
+    margin: 7vw 5.21vw 5.21vw 92vw;
+    position: absolute;
+    font-size: 18px;
+    background-color: #03031486;
+}
+
+
+

@@ -1,0 +1,35 @@
+h1{
+    color: yellow;
+}
+.one-but{
+    color:yellow;
+    margin: -3vw 0vw 0vw -23.44vw;  
+    position: absolute;
+    font-size: 20px;
+    background-color: #4c65af;
+}
+.possun{
+    position: relative; 
+    left: -40vw;
+    bottom: -19vw;
+}
+
+.utb{
+    position: relative;
+    margin-bottom: 5.21vw;
+    left: 0.78vw;
+}
+.ps{
+    color:yellow;
+    position: relative;
+    left: 42vw;
+    bottom: 60vw;
+    max-inline-size: 75ch;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.possun1{
+    position: relative; 
+    left: 40vw;
+    top: 10.42vw;
+}
